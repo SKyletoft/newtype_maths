@@ -52,3 +52,12 @@ cargo run
 cd test
 cargo run
 nvim src/lib.rs 
+git add .
+git commit
+git push
+cd test
+cargo run
+cargo fmt
+cargo run
+:e#
+cargo run
