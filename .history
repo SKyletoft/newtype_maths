@@ -1,3 +1,54 @@
 cargo build
 which clang
 which mold
+cargo build
+nvim src/lib.rs 
+cargo build
+nvim src/lib.rs 
+cargo build
+nvim src/lib.rs 
+git add .
+git commit
+git push
+nvim Cargo.toml 
+cargo build
+nvim src/lib.rs 
+cargo check
+cargo license
+cargo install cargo-license
+cargo license
+nvim src/lib.rs 
+cargo license
+nvim src/lib.rs 
+cargo build
+cat ~/git/raytracing_in_one_weekend/rust/src/vector3.rs 
+cargo build
+cargo +nightly build -Zunstable-features --pretty=expanded
+rustup install nightly
+cargo +nightly build -Zunstable-features --pretty=expanded
+cargo +nightly rustc --  -Zunstable-features --pretty=expanded
+cargo expand
+rustup
+rustup component add expand
+cargo install cargo-expand
+cargo expand
+mkdir ~/.cargo/bin
+ls ~/.cargo/bin 
+rm ~/.cargo/bin 
+cargo install cargo-expand
+cargo expand
+cargo run
+cargo expand
+bat --help
+bat --theme
+bat --list-themes
+cargo expand
+cargo run
+cargo expand
+cargo run
+cd ..
+cargo build
+cargo run
+cd test
+cargo run
+nvim src/lib.rs 
